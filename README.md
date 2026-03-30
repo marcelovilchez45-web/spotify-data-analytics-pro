@@ -15,7 +15,7 @@ Este proyecto resuelve la complejidad de analizar grandes catálogos musicales. 
 3. **Analytics Layer:** Vistas SQL para optimizar el rendimiento de las consultas en Power BI.
 
 ## 📊 Dashboard Insights
-* **Página 1 (Executive):** Análisis de KPIs macro, Top Artistas y Tendencia Histórica.
+* **Página 1 (Imagenes/1. Resumen.png):** Análisis de KPIs macro, Top Artistas y Tendencia Histórica.
 * **Página 2 (Deep Dive):** Análisis de correlación entre duración, contenido explícito y éxito comercial.
 
 ## 🚀 Valor de Negocio
