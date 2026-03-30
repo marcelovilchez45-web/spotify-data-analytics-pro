@@ -1,4 +1,4 @@
-# Spotify Music Analytics: End-to-End BI Solution
+# 🎧 Spotify Music Analytics: End-to-End BI Solution
 
 ## 📌 Descripción
 Este proyecto resuelve la complejidad de analizar grandes catálogos musicales. Desarrollé un flujo de datos completo (ETL) que transforma datos crudos de Spotify en insights accionables sobre popularidad, fidelización de fans y tendencias de mercado.
@@ -15,19 +15,29 @@ Este proyecto resuelve la complejidad de analizar grandes catálogos musicales. 
 3. **Analytics Layer:** Vistas SQL para optimizar el rendimiento de las consultas en Power BI.
 
 ## 📊 Dashboard Insights
-* **Página 1 ![Resumen Ejecutivo](Imagenes/1.%20Resumen.png):** Análisis de KPIs macro, Top Artistas y Tendencia Histórica.
-* **Página 2 ![Explorador de Performance](Imagenes/2.%20Explorador%20de%20Performance%20...png):** Análisis de correlación entre duración, contenido explícito y éxito comercial.
+
+### Página 1: Resumen Ejecutivo
+Analiza KPIs macro, Top Artistas y la tendencia histórica de lanzamientos para entender el crecimiento del catálogo.
+
+![Resumen Ejecutivo](Imagenes/1.%20Resumen.png)
+
+---
+
+### Página 2: Explorador de Performance de Tracks
+Análisis de correlación entre duración del track, contenido explícito y éxito comercial para identificar patrones de hits.
+
+![Explorador de Performance](Imagenes/2.%20Explorador%20de%20Performance%20de%20tracks.png)
 
 ## 🚀 Valor de Negocio
 Permite a sellos discográficos y analistas de contenido identificar:
-- Artistas con alto potencial de crecimiento (Viral vs. Real).
-- Patrones de éxito basados en atributos técnicos del track (Duration/Explicit).
-- Segmentación de mercado por géneros dominantes.
+- **Fidelización:** Diferenciar artistas virales de aquellos con una base de fans sólida.
+- **Optimización de Producto:** Identificar la duración ideal de un track para maximizar su popularidad.
+- **Segmentación:** Entender la distribución de géneros y madurez del contenido (Explicit vs Clean).
 
 ## 👤 Sobre mí
 Analista de Datos apasionado por transformar el caos de los datos en decisiones estratégicas. Me especializo en soluciones End-to-End que combinan ingeniería de datos y visualización avanzada.
 
 ## 💼 Servicios
 - Implementación de Dashboards en Power BI / Tableau.
-- Optimización de bases de datos SQL.
-- Storytelling y Análisis de Datos para toma de decisiones.
+- Optimización de bases de datos SQL y procesos ETL.
+- Storytelling y Análisis de Datos para toma de decisiones estratégicas.
