@@ -26,7 +26,7 @@ Analiza KPIs macro, Top Artistas y la tendencia histórica de lanzamientos para 
 ### Página 2: Explorador de Performance de Tracks
 Análisis de correlación entre duración del track, contenido explícito y éxito comercial para identificar patrones de hits.
 
-![Explorador de Performance](Imagenes/2.%20Explorador%20de%20Performance%20de%20tracks.png)
+![Explorador de Performance](Imagenes/2.%20Explorardor%20de%20Performance%20de%20tracks.png)
 
 ## 🚀 Valor de Negocio
 Permite a sellos discográficos y analistas de contenido identificar:
